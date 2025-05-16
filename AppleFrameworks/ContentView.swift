@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  AppleFrameworks
-//
-//  Created by Quadratte on 16.05.2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
